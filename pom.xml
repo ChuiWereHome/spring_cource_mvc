@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>mvc.lesson1.base</module>
+    <module>mvc.lesson2.base.rejection.of.xml</module>
   </modules>
   <properties>
     <maven.compiler.source>18</maven.compiler.source>
